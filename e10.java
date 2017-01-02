@@ -1,3 +1,4 @@
+// I did not know about boolean when I wrote this code. This is a very old code.
 import java.util.Scanner;
 public class e10 {
 	
